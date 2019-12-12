@@ -1,7 +1,0 @@
-{
-  "info:": "Stored proc generator core.",
-  "Version:": "0.0.1-SNAPSHOT",
-  "artifactId:": "stored-procedure-generator",
-  "groupId:": "com.sqlserver.dba",
-  "repo_url:": "https://app.url.xyz/abc.123"
-}
