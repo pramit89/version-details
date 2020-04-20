@@ -1,5 +1,5 @@
 {
-  "info": "Stored proc generator core.",
+  "info": "Stored proc generator core",
   "version": "0.0.3-SNAPSHOT",
   "artifactId": "stored-procedure-generator",
   "groupId": "com.sqlserver.dba",
