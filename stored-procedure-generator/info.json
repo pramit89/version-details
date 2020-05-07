@@ -1,6 +1,6 @@
 {
   "info": "Stored proc generator core",
-  "version": "0.0.4-SNAPSHOT",
+  "version": "0.0.5-SNAPSHOT",
   "artifactId": "stored-procedure-generator",
   "groupId": "com.sqlserver.dba",
   "repo_url": "https://eclinicalworks-my.sharepoint.com/:f:/g/personal/pramit_parikh_eclinicalworks_com1/EsnPgAv-cTFMlDyr7le7xtABybuv-d3ZNdHDEpuiWgxyiA?e=0bIfkd"
